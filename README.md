@@ -1,2 +1,2 @@
-# 中关村校企景秀教育官网
+# 景秀
 网址：https://xiaoyabowen.github.io/jx/
